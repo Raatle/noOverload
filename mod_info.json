@@ -1,0 +1,10 @@
+{
+    "id":"noOverload",
+    "name":"noOverload",
+    "author":"Raatle",	
+    "version":"1.0",
+    "description":"hotfix for overloading ships",
+    "gameVersion": "0.98a-RC5",
+    "dependencies": [],
+    "jars":["jars/noOverload.jar"],
+}
